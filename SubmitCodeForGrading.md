@@ -69,4 +69,3 @@ git merge passoff
 ```
 
 This will change your branch to the master branch and merge in the change you just made
-
